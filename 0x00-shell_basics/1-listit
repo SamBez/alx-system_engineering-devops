@@ -1,2 +1,2 @@
-#!/bin/bash chmod u+x
-ls
+#!/bin/bash
+chmod u+x ls
